@@ -13,16 +13,22 @@ Um projeto de portfólio simples em HTML, CSS e JavaScript puro que utiliza a AP
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
+## 🚀 Como Rodar o Projeto
+
+### Ver Demo Online
+
+Acesse a versão hospedada do projeto diretamente no GitHub Pages:
+[**🎮 Assistente de Meta para Jogos - Demo Online**](https://biapeters.github.io/assistente-meta-gemini/)
+
+### Rodar o Projeto Localmente
 
 Para testar este projeto em sua máquina, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-    cd SEU_REPOSITORIO
+    git clone [https://github.com/biapeters/assistente-meta-gemini.git](https://github.com/biapeters/assistente-meta-gemini.git)
+    cd assistente-meta-gemini
     ```
-    *(Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelos seus dados do GitHub)*
 
 2.  **Obtenha sua API Key do Google Gemini:**
     * Vá para o [Google AI Studio](https://aistudio.google.com/app/apikey) ou [Google Cloud Console](https://console.cloud.google.com/apis/credentials).
